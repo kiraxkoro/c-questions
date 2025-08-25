@@ -8,6 +8,7 @@
 using namespace std;
 int main()
 {  
+//shocasing basic input
 char ch;
 cin>>ch;
 if(ch>=65&&ch<=90)
